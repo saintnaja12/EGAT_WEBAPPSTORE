@@ -1,0 +1,68 @@
+body {
+    background-color: #223B75;
+    /* font-family: 'quark', sans-serif; */
+}
+
+.h6 {
+	/* text-decoration: underline; */
+	color: #fff;
+}
+
+.h7 {
+	text-decoration: underline;
+}
+
+.img-fluid {
+	border-radius: 5px;
+	color: #EACA6A;
+	margin-top: 20px;
+}
+
+.row {
+	margin-top: 40px;
+}
+
+.checkbox {
+	margin-top: 6px;
+}
+
+.background {
+	background-color: #223B75;
+	text-align: center;
+}
+
+.navbar {
+	background-color: #EACA6A;
+}
+
+.img {
+	border-radius: 10px;
+	color: #EACA6A;
+}
+
+.card-img-top {
+	border-radius: 10;
+}
+
+.card{
+	background-color: #274896;
+	border-radius: 2px;
+}
+
+.text-name {
+	color: aliceblue;
+}
+
+.box
+   {
+    width:1270px;
+    padding:20px;
+    background-color:#fff;
+    border:1px solid #ccc;
+    border-radius:5px;
+    margin-top:100px;
+   }
+
+
+
+
